@@ -1,0 +1,7 @@
+body {
+  background-color: lightblue;
+  /* background-image: url("bgdesert.jpg"); */ /* enable if image needed */
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
