@@ -1,0 +1,6 @@
+body {
+    background-image: url("bg.jpg");   /* अपनी image का नाम डालें */
+    background-repeat: repeat;         /* ये line जरूरी है */
+    background-size: auto;             /* image को stretch मत करें */
+    background-position: top left;     /* repeat के लिए position */
+}
