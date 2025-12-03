@@ -1,0 +1,4 @@
+h3::after {
+    content: url(smiley.gif);
+
+}
