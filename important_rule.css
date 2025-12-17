@@ -1,0 +1,12 @@
+p {
+    background-color: yellow !important;
+}
+
+#myid {
+    background-color: blue;
+}
+
+.myclass {
+    background-color: gray;
+}
+
